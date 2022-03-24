@@ -1,0 +1,11 @@
+spring:
+  datasource:
+      generate-unique-name: false
+      name: geographyManagement
+  h2:
+    console:
+      enabled: true
+  
+server:
+  servlet:
+    context-path: /geography/0.1.0

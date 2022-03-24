@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.katabat.rcm.geography.test.AccessingDataRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.946 s - in com.katabat.rcm.geography.test.AccessingDataRestApplicationTests
